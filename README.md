@@ -49,7 +49,7 @@ An interactive Power BI report providing insights into coffee sales patterns, to
 
 ---
 
-### 🍫 **Awesome Chocolates Superstore Analysis: Strategic Business Insights**
+### 🍫 **Awesome Chocolates Superstore Analysis**
 This Power BI project provides a comprehensive dashboard for analyzing global air traffic patterns, airline performance metrics, and passenger demographics.
 
 [View Repo] (https://github.com/thepeace-maker/Sales-Analysis)
