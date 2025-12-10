@@ -31,9 +31,28 @@ Welcome to my GitHub profile! I am a results-driven Data Analyst skilled in SQL,
 
 ---
 
-### 🚀 Data Analysis Project Showcase
+### 📁 Featured Project
 
-* [cite_start]**Global Air Transport Analysis**: Developed a Power BI project that utilized SQL ETL to clean and model 15 years of World Bank air transport data for over 100 countries[cite: 22].
+---
+
+### ✈️ **Global Air Transport Analysis**
+This Power BI project provides a comprehensive dashboard for analyzing global air traffic patterns, airline performance metrics, and passenger demographics.
+
+[View Repo] (https://github.com/thepeace-maker/GlobalAir-Analytics)
+
+---
+
+### ☕ **Coffee Sales Analytics Dashboard**
+An interactive Power BI report providing insights into coffee sales patterns, top-selling products, and time-based performance.
+
+[View Repo] (https://github.com/thepeace-maker/Coffee-Sales-Analytics-Dashboard)
+
+---
+
+### 🍫 **Awesome Chocolates Superstore Analysis: Strategic Business Insights**
+This Power BI project provides a comprehensive dashboard for analyzing global air traffic patterns, airline performance metrics, and passenger demographics.
+
+[View Repo] (https://github.com/thepeace-maker/Sales-Analysis)
 
 
 ### 🌐 Connect With Me
