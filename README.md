@@ -32,6 +32,11 @@ Welcome to my GitHub profile! I am a results-driven Data Analyst skilled in SQL,
 ---
 
 ### 📁 Featured Project
+---
+### 🚗 **Mercedes-Benz vs BMW: Value Retention Analysis** 
+A data analytics project comparing Mercedes-Benz and BMW vehicle value retention using price, mileage, and vehicle age to uncover depreciation patterns and resale value insights.
+
+[View Repo] (https://github.com/thepeace-maker/Mercedes-Benz-vs-BMW-Value-Retention-Analysis)
 
 ---
 
