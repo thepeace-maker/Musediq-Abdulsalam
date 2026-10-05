@@ -32,6 +32,13 @@ Welcome to my GitHub profile! I am a results-driven Data Analyst skilled in SQL,
 ---
 
 ### 📁 Featured Project
+
+---
+### 🚙 **Toyota UK Used-Car Analysis**
+Interactive Power BI dashboard analyzing Toyota used-car listings, value retention, pricing trends, model performance, and hybrid vs petrol differences in the UK market.
+
+[View Repo] (https://github.com/thepeace-maker/Toyota-Used-Car--Value-Retention-Analysis)
+
 ---
 ### 🚗 **Mercedes-Benz vs BMW: Value Retention Analysis** 
 A data analytics project comparing Mercedes-Benz and BMW vehicle value retention using price, mileage, and vehicle age to uncover depreciation patterns and resale value insights.
