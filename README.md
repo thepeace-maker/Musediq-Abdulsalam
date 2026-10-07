@@ -34,6 +34,12 @@ Welcome to my GitHub profile! I am a results-driven Data Analyst skilled in SQL,
 ### 📁 Featured Project
 
 ---
+### 🚚 **Global Logistics: Delivery Performance Analysis**
+Interactive Power BI dashboard analyzing global shipping performance, late delivery rates, shipping modes, regional trends, and promised vs actual delivery times from 2015–2018.
+
+[View Repo] (https://github.com/thepeace-maker/Global-Logistics-Supply-Chain-Analysis)
+
+---
 ### 🚙 **Toyota UK Used-Car Analysis**
 Interactive Power BI dashboard analyzing Toyota used-car listings, value retention, pricing trends, model performance, and hybrid vs petrol differences in the UK market.
 
