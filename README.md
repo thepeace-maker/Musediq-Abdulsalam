@@ -34,6 +34,11 @@ Welcome to my GitHub profile! I am a results-driven Data Analyst skilled in SQL,
 ### 📁 Featured Project
 
 ---
+### 🛒 **Brazilian E-Commerce Analytics**
+Power BI dashboard analyzing Brazilian e-commerce performance from 2017–2018, covering sales revenue, order trends, product categories, delivery satisfaction, state-level revenue, and repeat customer behavior.
+
+[View Repo] (https://github.com/thepeace-maker/Brazilian-E-Commerce-Analytics)
+---
 ### 🚚 **Global Logistics: Delivery Performance Analysis**
 Interactive Power BI dashboard analyzing global shipping performance, late delivery rates, shipping modes, regional trends, and promised vs actual delivery times from 2015–2018.
 
