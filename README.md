@@ -34,9 +34,14 @@ Welcome to my GitHub profile! I am a results-driven Data Analyst skilled in SQL,
 ### 📁 Featured Project
 
 ---
+### 💳 **Credit-Risk-Analytics**
+Power BI credit risk dashboard analyzing LendingClub loan performance, charge-off rates, and net returns.
+
+[View Repo] (https://github.com/thepeace-maker/Credit-Risk-Analytics)
+
+---
 ### 🛒 **Brazilian E-Commerce Analytics**
 Power BI dashboard analyzing Brazilian e-commerce performance from 2017–2018, covering sales revenue, order trends, product categories, delivery satisfaction, state-level revenue, and repeat customer behavior. 
-
 
 [View Repo] (https://github.com/thepeace-maker/Brazilian-E-Commerce-Analytics)
 
